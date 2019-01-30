@@ -1,2 +1,2 @@
-This is sample text.
+This text has now been modified.
 This text has been edited from GitHub.
